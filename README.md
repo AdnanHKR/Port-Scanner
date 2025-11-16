@@ -5,6 +5,6 @@ It is a simple Python tool that checks which TCP ports on one or more target hos
 1. Installing dependencies
 2. pip install IPy
 3. Run: python PortScanner.py
-4. enter a hostname or IP (or multiple hosts separated by commas):
-5. Example: google.com
+4. enter a hostname or IP (or multiple hosts separated by commas): [ google.com or 142.250.200.174 ]
+
    
